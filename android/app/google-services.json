@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122858882903",
+    "project_id": "lingo-panda-news",
+    "storage_bucket": "lingo-panda-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122858882903:android:e36ccb7f11e80afb5d2012",
+        "android_client_info": {
+          "package_name": "com.example.lingoganda_news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjQyZaGrEX5RA5pa73ml-66nipJ2ohV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
